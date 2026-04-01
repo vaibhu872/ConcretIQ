@@ -1,0 +1,14 @@
+joblib==1.4.2
+pandas==2.2.1
+matplotlib==3.8.4
+xlrd==2.0.2
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+streamlit
+requests
+seaborn
+openpyxl
+shap
